@@ -1,0 +1,33 @@
+#divcabecera{
+	background-color:#2A8EFF;
+	height: 100px;
+	border-radius: 5px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 10px;	
+}
+
+#divcabecera #izquierda{
+	text-align: left;	
+}
+
+#divcabecera #derecha{
+	text-align: right;	
+}
+
+#fotoejecutivo{
+	width: 80px;
+	height: 80px;
+}
+
+#mainmenu{
+	text-align: center;
+	padding-top: 15px;
+}
+
+#dashboard{
+	padding-top: 15px;
+}
